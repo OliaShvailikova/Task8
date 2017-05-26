@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Task 8</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_photo">Make a photo</string>
+    <string name="action_delete">Delete</string>
+    <string name="start_image_name">building</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="distance">Distance</string>
+    <string name="change">Change</string>
+    <string name="save">Save</string>
+    <string name="location">Пользовательское местоположение</string>
+</resources>
